@@ -1,7 +1,7 @@
 Launch:
 bash gitpush.sh
 
-Use flags:
+Use flags:<br>
 --add<br>
 --commit<br>
 --push<br>
