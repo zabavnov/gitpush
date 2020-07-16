@@ -1,4 +1,4 @@
-Launch:
+Launch:<br>
 bash gitpush.sh
 
 Use flags:<br>
@@ -9,7 +9,7 @@ make a commit with your comment<br>
 <b>--push</b><br>
 <b>--tree</b><br><br>
 
-<b>.gitignore for:</b>
+<b>.gitignore for:</b><br>
 .DS_Store<br>
 main.c<br>
 a.out<br>
