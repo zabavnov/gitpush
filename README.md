@@ -2,7 +2,7 @@ Launch:
 bash gitpush.sh
 
 Use flags:
---add
---commit
---push
+--add<br>
+--commit<br>
+--push<br>
 --tree
