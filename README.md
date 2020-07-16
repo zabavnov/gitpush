@@ -3,8 +3,10 @@ Put gitpush.sh file in the git folder and run <br>
 <b>bash gitpush.sh</b>
 
 <h2>Use flags:</h2><br>
-<b>--add</b><br>
+<b>--new</b><br>
 init new repo and add new remote repo<br>
+<b>--add</b><br>
+add new changes to git repo<br>
 <b>--commit</b><br>
 make a commit with your comment<br>
 <b>--push</b><br>
