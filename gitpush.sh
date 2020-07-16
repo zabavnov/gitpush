@@ -2,6 +2,7 @@
 if [[ $* != *--* ]]
 then
 echo "Use flags:
+--new
 --add
 --commit
 --push
