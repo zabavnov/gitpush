@@ -6,7 +6,7 @@ Dowload <a href='https://github.com/zabavnov/gitpush/archive/master.zip'>files</
 <b>--new</b><br>
 init new git repo and add new remote repo<br>
 <b>--add</b><br>
-stage changes for commit<br>
+stage changes for the commit<br>
 <b>--commit</b><br>
 make a commit with your comment<br>
 <b>--push</b><br>
