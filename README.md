@@ -1,7 +1,7 @@
 <h2>Launch:</h2><br>
 bash gitpush.sh
 
-<h2>Use flags</h2>:<br>
+<h2>Use flags:</h2><br>
 <b>--add</b><br>
 init new repo and add new remote repo<br>
 <b>--commit</b><br>
