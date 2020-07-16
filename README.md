@@ -10,8 +10,9 @@ stage changes for commit<br>
 <b>--commit</b><br>
 make a commit with your comment<br>
 <b>--push</b><br>
-Push your changes to the remote git repo
+Push your changes to the remote git repo<br>
 <b>--tree</b><br><br>
+Show your git tree<br>
 
 <b><h2>.gitignore for:</h2></b><br>
 .DS_Store<br>
