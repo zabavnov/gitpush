@@ -1,5 +1,5 @@
 <h2>Launch:</h2><br>
-Put gitpush.sh in the git folder and run
+Put gitpush.sh file in the git folder and run <br>
 <b>bash gitpush.sh</b>
 
 <h2>Use flags:</h2><br>
